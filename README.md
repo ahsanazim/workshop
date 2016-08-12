@@ -1,11 +1,12 @@
 # Getting started with 
 
-
 ![](https://cdn.rawgit.com/ahsanazim/workshop/master/img/react-native-logo.svg) 
 
-Today we'll be introducing you to React Native, taking you from building a basic-app to whipping up one that does all sorts of amazing things. We'll also leave you with a tonne of goodies and things to keep in mind if you plan on pursuing React Native development in the future. 
+Today I'll be introducing you to React Native, taking you from building a basic-app to whipping up one that does all sorts of amazing things. I'll also leave you with a tonne of goodies and things to keep in mind if you plan on pursuing React Native development in the future. 
 
 Basically, this'll be your one-stop-shop to becoming an ace React Native developer ;) 
+
+One final note before I get to the more interesting stuff - throughout this workshop I'll assume a degree of fluency and basic familiarity with React. If you're completely new to React as well, then I suggest you go to one of the innumerable React tutorials out there - they're probably the best resource for it (Dan Abramov's egghead series would be a great start!). As the original target audience for this document was the students of a web development class I took at Dartmouth, you'll notice that I sometimes refer to general React experience (in that - excellent, if i might add - class, we'd dealt with React for quite a few weeks). 
 
 Since this document is slightly long, here's a short run down on what you'll find inside: 
 
